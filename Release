@@ -1,0 +1,8 @@
+Origin: <Daniel Becker Repo>
+Label: Daniel Becker
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: Eine Cydia Repo © Daniel Becker https://daniel-becker.com
